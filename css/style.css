@@ -1,0 +1,33 @@
+ h1 {
+    color:rgb(233, 144, 218);
+    font-family: arial, helvetica, sans-serif;
+    font-variant: small-caps;
+    font-weight: 800;
+    font-size: 3em;
+    text-align: center;
+} 
+nav ul li {	
+    display: inline-block;
+    margin: 100px;
+    padding: 25px;
+}
+nav ul li a {text-decoration: none;
+    font-variant: small-caps;
+		font-weight: bold;
+        color:coral;
+
+}
+body{
+    background-image: url("../image/parapluie.jpg");
+    background-size: 100%;
+}
+
+div {
+    text-align: center;
+    border: 3px;
+    border: solid;
+    border-color: black;
+    font-size: 24px;
+    background-color: antiquewhite;
+    opacity: 0.8;
+}
