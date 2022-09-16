@@ -1,33 +1,74 @@
+@import url('https://fonts.googleapis.com/css2? family= Dancing+Script:wght@500 & display=swap');
  h1 {
-    color:rgb(233, 144, 218);
-    font-family: arial, helvetica, sans-serif;
-    font-variant: small-caps;
+    color:rgb(250, 165, 67);
+font-family: 'Lobster Two', cursive;
+        font-variant: small-caps;
     font-weight: 800;
-    font-size: 3em;
+    font-size: 5em;
     text-align: center;
 } 
 nav ul li {	
     display: inline-block;
-    margin: 100px;
-    padding: 25px;
+    margin: 30px;
+    margin-top: 30px;
 }
+    
 nav ul li a {text-decoration: none;
+    font-size: 35px;
     font-variant: small-caps;
 		font-weight: bold;
-        color:coral;
+        color:rgb(247, 10, 235);
 
 }
-body{
-    background-image: url("../image/parapluie.jpg");
-    background-size: 100%;
+#home{
+    background-image: url("../image/tache.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
+#expo{background-image: url("../image/pagechiffon.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+#inter{background-image: url("../image/pagechiffon.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+#description{background-image: url("../image/pagechiffon.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+#myself{background-image: url("../image/pagechiffon.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
 
 div {
     text-align: center;
-    border: 3px;
-    border: solid;
-    border-color: black;
     font-size: 24px;
-    background-color: antiquewhite;
     opacity: 0.8;
+}
+nav ul {
+
+    border: none;
+}
+#text1{
+    
+font-family: 'Lobster Two', cursive;
+
+
+
+}
+#txtd{
+    font-family: 'Lobster Two', cursive;
+
 }
