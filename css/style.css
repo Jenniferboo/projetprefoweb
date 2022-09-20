@@ -11,15 +11,25 @@ nav ul li {
     display: inline-block;
     margin: 30px;
     margin-top: 30px;
+    background-color: rgb(255, 255, 255);
 }
     
-nav ul li a {text-decoration: none;
+nav ul li a {
+    text-decoration: none;
     font-size: 35px;
     font-variant: small-caps;
 		font-weight: bold;
         color:rgb(247, 10, 235);
+    
+}
+
+nav ul li a:hover {
+
+background-color: aqua;
 
 }
+
+
 #home{
     background-image: url("../image/tache.jpg");
     background-size: cover;
@@ -61,13 +71,18 @@ nav ul {
 
     border: none;
 }
-#text1{
+/* #text1{
     
 font-family: 'Lobster Two', cursive;
+margin: 50px;
 
+} */
 
-
+.bxl {
+    width: 60%;
+    margin: auto;
 }
+
 #txtd{
     font-family: 'Lobster Two', cursive;
 
