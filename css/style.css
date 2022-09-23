@@ -61,7 +61,7 @@ nav ul li a {
     
 }
 
-#inter{background-image: url("../image/pagechiffon.PNG");
+#inter{background-image: url("../image/backinter2.png");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -112,7 +112,7 @@ margin: 50px;
 }
 a {
     text-decoration: none;
-    color: coral;
+    color: rgb(255, 72, 0);
 }
 p {
     font-family: 'Mali', cursive; 
